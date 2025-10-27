@@ -1,0 +1,62 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ]
+  ],
+  "legacy_uid": "b64d5e8b-94ff-8397-709f-eebe7da6e449",
+  "instructors": {
+    "content": [
+      "055e5f6c-1e84-4cb7-7423-2a868f9fc921"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9adeab02-3b57-5766-7c9a-99e1fc6b3f1e",
+    "website": "21l-715-media-in-cultural-context-popular-readerships-fall-2007"
+  },
+  "course_title": "Media in Cultural Context: Popular Readerships",
+  "course_description": "What is the history of popular reading in the Western world? How does widespread access to print relate to distinctions between highbrow and lowbrow culture, between good taste and bad judgment, and between men and women readers? This course will introduce students to the broad history of popular reading and to controversies about taste and gender that have characterized its development. Our grounding in historical material will help make sense of our main focus: recent developments in the theory and practice of reading, including fan-fiction, Oprah's book club, comics, hypertext, mass-market romance fiction, mega-chain bookstores, and reader response theory.\n",
+  "department_numbers": [
+    "21L",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.493,CMS.871",
+  "primary_course_number": "21L.715",
+  "course_image_thumbnail": {
+    "content": "b2fd270c-e3c8-c16e-ee8c-0bdf49fb64c7",
+    "website": "21l-715-media-in-cultural-context-popular-readerships-fall-2007"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "7b687fc4-846e-435e-8eb3-245abc6559b1",
+  "site_short_id": "21l.715-fall-2007",
+  "site_url_path": "courses/21l-715-media-in-cultural-context-popular-readerships-fall-2007",
+  "title": "Course Metadata"
+}
